@@ -1,2 +1,2 @@
 Hi I'm TheGreatPig.
-You can contact me not yet
+You can't contact me yet
