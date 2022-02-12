@@ -1,2 +1,5 @@
 Hi I'm TheGreatPig.
-You can't contact me yet
+Contact:
+-E-mail: TheGreatPigBusiness@gmail.com
+-Discord: TheGreatPig#0539
+-Twitter: @TheGreatPig1
