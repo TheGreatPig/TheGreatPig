@@ -1,4 +1,4 @@
-# Hi 👋, I'm Niklas
+# Hi 👋, I'm TheGreatPig
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
