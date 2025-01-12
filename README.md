@@ -7,6 +7,5 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 
-A 16 yr old developer
 
 ## Stuff I'm working on
